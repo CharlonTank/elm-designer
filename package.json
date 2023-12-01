@@ -11,7 +11,7 @@
     "elm-hot": "1.1.5",
     "node-elm-compiler": "5.0.5",
     "sass": "1.26.10",
-    "electron": "11.0.4"
+    "electron": "22.3.25"
   },
   "dependencies": {
     "parcel-bundler": "1.12.4"
